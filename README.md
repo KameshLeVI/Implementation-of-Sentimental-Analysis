@@ -46,4 +46,6 @@ for text, sentiment_score in zip(texts, sentiment_scores):
 ## Output:
 ![image](https://github.com/SivaChandranR07/Implementation-of-Sentimental-Analysis/assets/113497395/717e9473-5ee1-46e8-9527-fd4a0b484500)
 
+## Result:
+Thus the implementation of semantic ananlysis is proved.
 
